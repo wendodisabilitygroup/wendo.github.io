@@ -2,7 +2,7 @@
 title: Entrepreneurship
 layout: page
 description: Work
-intro_image: "images/illustrations/entrepreneurship.svg"
+intro_image: "/images/illustrations/entrepreneurship.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
