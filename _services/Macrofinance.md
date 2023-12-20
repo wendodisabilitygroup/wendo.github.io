@@ -10,9 +10,6 @@ show_call_box: true
 
 We support our community by offering micro finance services to grow, scale, and propel our enterprises that promote autonomy, independence, and increased standards of lining.
 
-![Work](/images/wendo MONOCHROME-11.jpg)
-
-
 
 
 
